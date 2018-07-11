@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EadBox - Teste</string>
+    <string name="splash_txt_tittle">Teste - Vaga Dev. Android</string>
+    <string name="splash_txt_sub_title">Eduardo Augusto Petreca</string>
+    <string name="splash_txt_loading">Carregando…</string>
+    <string name="list_course_txt_tittle">Nome do curso</string>
+    <string name="main_txt_search_bar">Buscar</string>
+    <string name="course_error_load">Erro ao carregar cursos tente novamente mais tarde!</string>
+</resources>

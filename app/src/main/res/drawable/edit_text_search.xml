@@ -1,0 +1,9 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:shape="rectangle"
+    tools:targetApi="lollipop">
+
+    <solid android:color="@color/gray"
+        android:elevation="15dp" />
+    <corners android:radius="8dp" />
+</shape>
