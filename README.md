@@ -18,10 +18,10 @@ Programação reativa:
 Outras biblitecas utilizadas:
 Retrofit, DataBinding, ViewModels, LiveData, Recyclerview, Cardview, Picasso, avi view, Skeleton Loading.
 
-Apk de teste pode ser encontrado no link abaixo (Reposotório):
+- Apk de teste pode ser encontrado no link abaixo (Repositório):
 https://github.com/EduardoAugusto2015/EadBox-Teste---Eduardo-Augusto/tree/master/sample
 
-Link alternativo (Mediafire):
+- Download do apk link alternativo (Mediafire):
 http://www.mediafire.com/file/fhlbk4chobmg9d4/sample.apk
 
 Candidato: Eduardo Augusto Petreca.
