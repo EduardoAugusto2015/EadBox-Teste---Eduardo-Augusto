@@ -7,16 +7,21 @@ Projeto tem como objetivo listar api de cursos cadastrados em uma plataforma de 
 Neste projeto foi utilizado:
 
 Linguagem:
+- Kotlin
 
-Kotlin
 Padrão de projeto
+- MVVM
 
-MVVM
 Programação reativa:
+- RxJava
 
-RxJava
-Outras biblitecas utilizadas: Retrofit, DataBinding, ViewModels, LiveData, Recyclerview, Cardview, Picasso, avi view, Skeleton Loading.
+Outras biblitecas utilizadas:
+Retrofit, DataBinding, ViewModels, LiveData, Recyclerview, Cardview, Picasso, avi view, Skeleton Loading.
 
-Apk de teste pode ser encontrado no link abaixo:
+Apk de teste pode ser encontrado no link abaixo (Reposotório):
+https://github.com/EduardoAugusto2015/EadBox-Teste---Eduardo-Augusto/tree/master/sample
+
+Link alternativo (Mediafire):
+http://www.mediafire.com/file/fhlbk4chobmg9d4/sample.apk
 
 Candidato: Eduardo Augusto Petreca.
