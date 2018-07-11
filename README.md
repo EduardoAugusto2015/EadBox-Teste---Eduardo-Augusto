@@ -1,8 +1,8 @@
 #EadBox - Teste
 
-App EadBox - Teste foi criado para o teste da vaga de desenvolvedor android da empresa EADBOX:
+App EadBox - Teste foi criado para o teste da vaga de desenvolvedor android da empresa EADBOX.
 
-Projeto tem como objetivo listar api de cursos cadastrados em uma plataforma de testes EADBOX.
+Projeto tem como objetivo listar uma api de cursos cadastrados criada em uma plataforma de testes EADBOX.
 
 Neste projeto foi utilizado:
 
