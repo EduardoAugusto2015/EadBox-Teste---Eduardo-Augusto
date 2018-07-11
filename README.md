@@ -24,4 +24,7 @@ https://github.com/EduardoAugusto2015/EadBox-Teste---Eduardo-Augusto/tree/master
 - Download do apk link alternativo (Mediafire):
 http://www.mediafire.com/file/fhlbk4chobmg9d4/sample.apk
 
+
+<a href="https://ibb.co/fSK4ST"><img src="https://thumb.ibb.co/fSK4ST/image.gif" alt="image" border="0"></a>
+
 Candidato: Eduardo Augusto Petreca.
